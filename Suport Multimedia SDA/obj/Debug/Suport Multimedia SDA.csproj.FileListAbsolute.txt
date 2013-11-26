@@ -6,3 +6,7 @@ C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\obj\D
 C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\obj\Debug\Suport Multimedia SDA.csproj.GenerateResource.Cache
 C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\obj\Debug\Suport Multimedia SDA.exe
 C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\obj\Debug\Suport Multimedia SDA.pdb
+C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\bin\Debug\OpenTK.dll
+C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\bin\Debug\OpenTK.xml
+C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\bin\Debug\OpenTK.GLControl.xml
