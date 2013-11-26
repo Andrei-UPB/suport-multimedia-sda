@@ -1,0 +1,8 @@
+C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\bin\Debug\Suport Multimedia SDA.exe.config
+C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\bin\Debug\Suport Multimedia SDA.exe
+C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\bin\Debug\Suport Multimedia SDA.pdb
+C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\obj\Debug\Suport Multimedia SDA.csprojResolveAssemblyReference.cache
+C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\obj\Debug\Suport_Multimedia_SDA.Properties.Resources.resources
+C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\obj\Debug\Suport Multimedia SDA.csproj.GenerateResource.Cache
+C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\obj\Debug\Suport Multimedia SDA.exe
+C:\Users\Ioan\Documents\GitHub\suport-multimedia-sda\Suport Multimedia SDA\obj\Debug\Suport Multimedia SDA.pdb
